@@ -31,4 +31,16 @@ let convisStringIn = String(isStringIn);
 // console.log(convisStringIn);
 // console.log(typeof(convisStringIn));
 
+//**************Operations****************
+ let value=3
+ let negvalue=-value
+//  console.log(negvalue);
 
+let str1= "shrashti"
+let str2="sahu"
+let str3=str1+" "+str2
+// console.log(str3);
+
+
+
+ 
