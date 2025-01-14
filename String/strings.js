@@ -31,3 +31,9 @@ console.log(ans.toLowerCase());
 //How to string in upper case
 console.log(ans.toUpperCase());
 
+//How to string find the character in the string present or not. give the answer in the boolean use includes method
+console.log(ans.includes("sahu"));
+
+console.log(ans.includes("vai"));
+
+
