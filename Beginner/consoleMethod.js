@@ -5,6 +5,6 @@ console.error('This is a warning');
 
 console.table({name:"shrashti",age:23});
 
-//Now add number with the value of undefined.
+//Now add number with the value of undefined. The result is shown nan 
 let favNumber = 4;
 console.log(favNumber + undefined)
